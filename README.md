@@ -21,4 +21,4 @@ Following these best practices ensures a clean, maintainable repository:
   making it easy to reference or roll back to a known good state.
 
 - **Keep Sensitive Data Out:** Never commit API keys, passwords, or credentials.
-  Use `.gitignore` and environment variables instead.
+
